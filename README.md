@@ -1,9 +1,4 @@
 # AirScribe
-AirScribe/
-│── AirScribe.py         # Main program
-│── requirements.txt     # Dependencies
-│── README.md 
-
 AirScribe is a gesture controlled virtual whiteboard and calculator that lets you write, erase, undo, and interact all in mid-air using just your fingers. Built with MediaPipe and OpenCV, it offers a smooth and intuitive way to draw, calculate, and create without ever touching a screen.
 
 # Features
