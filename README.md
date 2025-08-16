@@ -20,3 +20,5 @@ AirScribe is a gesture controlled virtual whiteboard and calculator that lets yo
    ```bash
    git clone https://github.com/tusharisunique/AirScribe.git
    cd AirScribe
+   pip install -r requirements.txt
+   python3 AirScribe.py 
